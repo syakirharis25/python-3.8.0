@@ -1,9 +1,15 @@
 # python-3.8.0
 My works related to Python programming language | version 3.8.0
 
+## Table of contents
+1. [Introduction.](#introduction)
+2. [Python principle.](#principle)
+
+<a name="introduction"></a>
 ## Introduction
 Python is a multi-paradigm programming language. Object-oriented programming and structured programming are fully supported, and many of its features support functional programming and aspect-oriented programming (including by metaprogramming and metaobjects (magic methods)). Many other paradigms are supported via extensions, including design by contract and logic programming. Python uses dynamic typing and a combination of reference counting and a cycle-detecting garbage collector for memory management. It also features dynamic name resolution (late binding), which binds method and variable names during program execution.
 
+<a name="principle"></a>
 ## Python principle
 Beautiful is better than ugly.
 Explicit is better than implicit.
