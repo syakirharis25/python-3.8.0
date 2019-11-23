@@ -6,6 +6,7 @@ My works related to Python programming language | version 3.8.0
 ## Table of contents
 1. [Introduction.](#introduction)
 2. [Python principle.](#principle)
+3. [Official references websites.](#references)
 
 <a name="introduction"></a>
 ## Introduction
@@ -32,3 +33,9 @@ Although never is often better than right now. <br />
 If the implementation is hard to explain, it's a bad idea. <br />
 If the implementation is easy to explain, it may be a good idea. <br />
 Namespaces are one honking great idea—let's do more of those!
+
+## Official references websites
+<a name="references"></a>
+Python official website : https://www.python.org
+
+Python IdleX text editor website : http://idlex.sourceforge.net
