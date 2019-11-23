@@ -38,4 +38,4 @@ Namespaces are one honking great idea—let's do more of those!
 <a name="references"></a>
 Python official website : https://www.python.org
 
-Python IdleX text editor website : http://idlex.sourceforge.net/
+Python IdleX text editor website : http://idlex.sourceforge.net
