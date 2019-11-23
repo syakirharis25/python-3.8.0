@@ -7,6 +7,7 @@ My works related to Python programming language | version 3.8.0
 1. [Introduction.](#introduction)
 2. [Python principle.](#principle)
 3. [Official references websites.](#references)
+4. [GitHub notes.](#github)
 
 <a name="introduction"></a>
 ## Introduction
@@ -39,3 +40,12 @@ Namespaces are one honking great idea—let's do more of those!
 Python official website : https://www.python.org
 
 Python IdleX text editor website : http://idlex.sourceforge.net
+
+<a name="github"></a>
+## GitHub notes
+
+To unstage commits on Git, use the “git reset” command with the “–soft” option and specify the commit hash. Using the “–soft” argument, changes are kept in your working directory and index. As a consequence, your modifications are kept, they are just not in the Git repository anymore.
+```
+$ git reset --soft HEAD~1
+$ git status
+```
