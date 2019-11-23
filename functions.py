@@ -4,4 +4,4 @@ def mysum(*numbers):
         result += number
     return result
 
-print(mysum(10,20,30,40,50))
+print(mysum(10,20,30,40,50 ))
