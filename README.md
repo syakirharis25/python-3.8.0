@@ -60,4 +60,5 @@ $ git log --oneline -1
 
 <a name="editor"></a>
 ## Text editor notes
+From the Sublime menu, click **Tools** -> **Build System** -> **Python**
 To run a program using Sublime text editor, press **[Ctrl]** + **[B]** buttons on your keyboard.
