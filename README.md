@@ -41,6 +41,8 @@ Python official website : https://www.python.org
 
 Python IdleX text editor website : http://idlex.sourceforge.net
 
+Python jobs : https://www.python.org/jobs/, https://www.pythonjobshq.com
+
 <a name="github"></a>
 ## GitHub notes
 
@@ -48,4 +50,10 @@ To unstage commits on Git, use the “git reset” command with the “–soft�
 ```
 $ git reset --soft HEAD~1
 $ git status
+```
+
+If a commit message contains unclear, incorrect, or sensitive information, you can amend it locally. You can also change a commit message to add missing information. After amend the message, view the log file to check again the commit message.
+```
+$ git commit --amend
+$ git log --oneline -1
 ```
