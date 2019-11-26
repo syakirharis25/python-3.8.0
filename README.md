@@ -41,6 +41,8 @@ Python official website : https://www.python.org
 
 Python IdleX text editor website : http://idlex.sourceforge.net
 
+Python jobs : https://www.python.org/jobs/, https://www.pythonjobshq.com
+
 <a name="github"></a>
 ## GitHub notes
 
