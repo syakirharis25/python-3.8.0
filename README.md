@@ -60,4 +60,4 @@ $ git log --oneline -1
 
 <a name="editor"></a>
 ## Text editor notes
-To run a program using Sublime text editor, press **[Ctrl]** + **[B]** button on your keyboard.
+To run a program using Sublime text editor, press **[Ctrl]** + **[B]** buttons on your keyboard.
