@@ -7,7 +7,8 @@ My works related to Python programming language | version 3.8.0
 1. [Introduction.](#introduction)
 2. [Python principle.](#principle)
 3. [Official references websites.](#references)
-4. [GitHub notes.](#github)
+4. [Git & GitHub notes.](#git)
+5. [Text editor notes.](#editor)
 
 <a name="introduction"></a>
 ## Introduction
@@ -44,8 +45,7 @@ Python IdleX text editor website : http://idlex.sourceforge.net
 Python jobs : https://www.python.org/jobs/, https://www.pythonjobshq.com
 
 <a name="github"></a>
-## GitHub notes
-
+## Git & GitHub notes
 To unstage commits on Git, use the “git reset” command with the “–soft” option and specify the commit hash. Using the “–soft” argument, changes are kept in your working directory and index. As a consequence, your modifications are kept, they are just not in the Git repository anymore.
 ```
 $ git reset --soft HEAD~1
@@ -57,3 +57,7 @@ If a commit message contains unclear, incorrect, or sensitive information, you c
 $ git commit --amend
 $ git log --oneline -1
 ```
+
+<a name="editor"></a>
+## Text editor notes
+To run a program using Sublime text editor, press **[Ctrl]** + **[B]** button on your keyboard.
