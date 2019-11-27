@@ -7,7 +7,8 @@ My works related to Python programming language | version 3.8.0
 1. [Introduction.](#introduction)
 2. [Python principle.](#principle)
 3. [Official references websites.](#references)
-4. [GitHub notes.](#github)
+4. [Git & GitHub notes.](#git)
+5. [Text editor notes.](#editor)
 
 <a name="introduction"></a>
 ## Introduction
@@ -44,8 +45,7 @@ Python IdleX text editor website : http://idlex.sourceforge.net
 Python jobs : https://www.python.org/jobs/, https://www.pythonjobshq.com
 
 <a name="github"></a>
-## GitHub notes
-
+## Git & GitHub notes
 To unstage commits on Git, use the “git reset” command with the “–soft” option and specify the commit hash. Using the “–soft” argument, changes are kept in your working directory and index. As a consequence, your modifications are kept, they are just not in the Git repository anymore.
 ```
 $ git reset --soft HEAD~1
@@ -57,3 +57,11 @@ If a commit message contains unclear, incorrect, or sensitive information, you c
 $ git commit --amend
 $ git log --oneline -1
 ```
+
+<a name="editor"></a>
+## Text editor notes
+From the Sublime menu, click **Tools** -> **Build System** -> **Python**. <br />
+To run a program using Sublime text editor, press **[Ctrl]** + **[B]** buttons on your keyboard. <br />
+To comment the selecting codes using Sublime text editor, press **[Ctrl]** + **[/]** buttons on your keyboard. <br />
+
+To use terminal within Sublime text editor, follow the command shown in the YouTube video by **_Giovanni G._**, title **Use the terminal in Sublime text 3 with terminus**, by utilizing https://github.com/James231/Terminals-In-Sublime-Text GitHub repository. Run the terminal by pressing **[Alt]** + **[1]** buttons on your keyboard.
