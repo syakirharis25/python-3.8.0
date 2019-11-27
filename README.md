@@ -40,6 +40,9 @@ Namespaces are one honking great idea—let's do more of those!
 <a name="references"></a>
 Python official website : https://www.python.org
 
+Python 3.8.0 official documentation : https://docs.python.org/3/
+Python 3.8.0 documentation for Networking and Interprocess Communication : https://docs.python.org/3/library/ipc.html
+
 Python IdleX text editor website : http://idlex.sourceforge.net
 
 Python jobs : https://www.python.org/jobs/, https://www.pythonjobshq.com
