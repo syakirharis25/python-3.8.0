@@ -75,6 +75,7 @@ Official Sublime text editor website : https://www.sublimetext.com
 <a name="pycharm"></a>
 ## JetBrains PyCharm text editor notes
 When using JetBrains PyCharm as text editor for Python, to check all the changes made, press **[Alt]** + **[Shift]** + **[C]** buttons on your keyboard.  <br />
-Copy and paste, duplicating text in JetBrains PyCharm is simply pressing **[Ctrl]** + **[D]** buttons on your keyboard, after the line that you wish to duplicate.  <br />
+Copy and paste, duplicating text in JetBrains PyCharm is simply pressing **[Ctrl]** + **[D]** buttons on your keyboard, after the line that you wish to duplicate. Another way to copy and paste, duplicating text in JetBrains PyCharm is first select all the desired text in the editor, press **[Ctrl]** and drag the caret(**|**) to the desired new location in the text editor.<br />
+To multiple select the texts, press **[Shift]** + **[Alt]** buttons on your keyboard and drag your mouse to where you desired. Alternatively, to add multiple carets, you can press **[Ctrl]** twice, and then without releasing it, press the up or down arrow keys on your keyboard.
 
 Official PyCharm text editor website : https://www.jetbrains.com/pycharm
