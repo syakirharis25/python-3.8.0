@@ -9,7 +9,7 @@ My works related to Python programming language | version 3.8.0
 3. [Official references websites.](#references)
 4. [Git & GitHub notes.](#git)
 5. [Sublime text editor notes.](#sublime)
-6. [PyCharm text editor notes.](#pycharm)
+6. [JetBrains PyCharm text editor notes.](#pycharm)
 
 <a name="introduction"></a>
 ## Introduction
@@ -73,7 +73,8 @@ To use terminal within Sublime text editor, follow the command shown in the YouT
 Official Sublime text editor website : https://www.sublimetext.com
 
 <a name="pycharm"></a>
-## PyCharm text editor notes
-When using PyCharm as text editor for Python, to check all the changes made, press **[Alt]** + **[Shift]** + **[C]** buttons on your keyboard.
+## JetBrains PyCharm text editor notes
+When using JetBrains PyCharm as text editor for Python, to check all the changes made, press **[Alt]** + **[Shift]** + **[C]** buttons on your keyboard.  <br />
+Copy and paste, duplicating text in JetBrains PyCharm is simply pressing **[Ctrl]** + **[D]** buttons on your keyboard, after the line that you wish to duplicate.  <br />
 
 Official PyCharm text editor website : https://www.jetbrains.com/pycharm
