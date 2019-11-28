@@ -8,7 +8,8 @@ My works related to Python programming language | version 3.8.0
 2. [Python principle.](#principle)
 3. [Official references websites.](#references)
 4. [Git & GitHub notes.](#git)
-5. [Text editor notes.](#editor)
+5. [Sublime text editor notes.](#sublime)
+6. [JetBrains PyCharm text editor notes.](#pycharm)
 
 <a name="introduction"></a>
 ## Introduction
@@ -61,10 +62,22 @@ $ git commit --amend
 $ git log --oneline -1
 ```
 
-<a name="editor"></a>
-## Text editor notes
+<a name="sublime"></a>
+## Sublime text editor notes
 From the Sublime menu, click **Tools** -> **Build System** -> **Python**. <br />
 To run a program using Sublime text editor, press **[Ctrl]** + **[B]** buttons on your keyboard. <br />
 To comment the selecting codes using Sublime text editor, press **[Ctrl]** + **[/]** buttons on your keyboard. <br />
 
 To use terminal within Sublime text editor, follow the command shown in the YouTube video by **_Giovanni G._**, title **Use the terminal in Sublime text 3 with terminus**, by utilizing https://github.com/James231/Terminals-In-Sublime-Text GitHub repository. Run the terminal by pressing **[Alt]** + **[1]** buttons on your keyboard.
+
+Official Sublime text editor website : https://www.sublimetext.com
+
+<a name="pycharm"></a>
+## JetBrains PyCharm text editor notes
+When using JetBrains PyCharm as text editor for Python, to check all the changes made, press **[Alt]** + **[Shift]** + **[C]** buttons on your keyboard.  <br />
+
+Copy and paste, duplicating text in JetBrains PyCharm is simply pressing **[Ctrl]** + **[D]** buttons on your keyboard, after the line that you wish to duplicate. Another way to copy and paste, duplicating text in JetBrains PyCharm is first select all the desired text in the editor, press **[Ctrl]** and drag the caret(**|**) to the desired new location in the text editor.<br />
+
+To multiple select the texts, press **[Shift]** + **[Alt]** buttons on your keyboard and drag your mouse to where you desired. Alternatively, to add multiple carets, you can press **[Ctrl]** twice, and then without releasing it, press the up or down arrow keys on your keyboard.
+
+Official PyCharm text editor website : https://www.jetbrains.com/pycharm
