@@ -75,3 +75,5 @@ Official Sublime text editor website : https://www.sublimetext.com
 <a name="pycharm"></a>
 ## PyCharm text editor notes
 When using PyCharm as text editor for Python, to check all the changes made, press **[Alt]** + **[Shift]** + **[C]** buttons on your keyboard.
+
+Official PyCharm text editor website : https://www.jetbrains.com/pycharm
