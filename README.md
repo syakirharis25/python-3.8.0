@@ -10,6 +10,8 @@ My works related to Python programming language | version 3.8.0
 4. [Git & GitHub notes.](#git)
 5. [Sublime text editor notes.](#sublime)
 6. [JetBrains PyCharm text editor notes.](#pycharm)
+7. [GitHub notes.](#github)
+8. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## Introduction
@@ -81,3 +83,28 @@ Copy and paste, duplicating text in JetBrains PyCharm is simply pressing **[Ctrl
 To multiple select the texts, press **[Shift]** + **[Alt]** buttons on your keyboard and drag your mouse to where you desired. Alternatively, to add multiple carets, you can press **[Ctrl]** twice, and then without releasing it, press the up or down arrow keys on your keyboard.
 
 Official PyCharm text editor website : https://www.jetbrains.com/pycharm
+
+<a name="github"></a>
+## 7. GitHub notes.
+Clone the current GitHub remote repository contents into local machine.
+```
+$ git clone https://github.com/syakirharis25/python-3.8.0.git
+$ cd python-3.8.0/
+$ git remote -v
+$ git status
+```
+
+<a name="calculation"></a>
+## 8. GitHub repository calculation.
+```
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Python                          22            115             35            347
+Markdown                         1             17              0             66
+XML                              5              0              0             35
+-------------------------------------------------------------------------------
+SUM:                            28            132             35            448
+-------------------------------------------------------------------------------
+```
+Refer to : https://github.com/syakirharis25/cloc
